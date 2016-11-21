@@ -39,4 +39,5 @@ denominator <- nrow(subset(mydata, SMOKE > 0))
 sprintf("The fraction of smoking mothers which have previously had premature births is %s/%s.",
        numerator, denominator)
 
-
+#Amine edit 
+# hello 
